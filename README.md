@@ -14,7 +14,7 @@ currently studying in computer science
 </p>
 
 ## Assignments & Lab Sessions
-- [PC Assemble Session](lab_pcassemble1)
+- [PC Assemble Session](README.md)
 
 ### Badges
 
