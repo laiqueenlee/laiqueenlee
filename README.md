@@ -16,7 +16,7 @@ currently studying in computer science
 ### Assignments & Lab Sessions
 - [PC Assemble Session](https://github.com/laiqueenlee/lab_pcassemble1/tree/main) <br>
 - [Overview of ICT Jobs in Clarity Techworks Sdn. Bhd.](https://github.com/laiqueenlee/TIS_industrialtalk_1)<br>
-- [Visit to UTMDigital]([https://github.com/laiqueenlee/TIS_industrialtalk_1](https://github.com/laiqueenlee/TIS_industrialvisit_1))<br>
+- [Visit to UTMDigital](https://github.com/laiqueenlee/TIS_industrialvisit_1)<br>
 - [System Development @ Credence (TM Subsidiary)](https://github.com/laiqueenlee/TIS_industrialtalk2) <br>
 - [Tech Driven Innovation—Unleashing The Power of Emerging Technologies for Business Growth in Urban Farming Solution (I-FARM)](https://github.com/laiqueenlee/TIS_industrialtalk3) <br>
 - [Design Thinking Project](https://github.com/laiqueenlee/TIS_designthinking)<br>
