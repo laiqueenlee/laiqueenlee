@@ -14,7 +14,7 @@ currently studying in computer science
 </p>
 
 ## Assignments & Lab Sessions
-- [PC Assemble Session](README.md)
+- [PC Assemble Session]([README.md](https://github.com/laiqueenlee/lab_pcassemble1/blob/21694b61b48d8df8bd17e36dab0092b98388a032/README.md))
 
 ### Badges
 
