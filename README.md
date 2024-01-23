@@ -6,7 +6,7 @@ currently studying in computer science :woman_student:
 
 * 🌍  I'm based in Johor, Malaysia
 * ✉️  You can contact me at [leelqueeno@gmail.com](mailto:leelqueeno@gmail.com)
-* 📣  Check out my eportfolio [laiqueenlee.github.io]([laiqueenlee.github.io](https://laiqueenlee.github.io/))
+* 📣  Check out my eportfolio [laiqueenlee.github.io](https://laiqueenlee.github.io/)
 <br><br>
 ### :hammer_and_wrench: Skills
 
