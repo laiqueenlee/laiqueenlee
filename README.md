@@ -9,7 +9,7 @@ currently studying in computer science :woman_student:
 * 📣  Check out my eportfolio [laiqueenlee.github.io](https://laiqueenlee.github.io/)
 <br><br>
 ### 🎒 Education
-2023-present: Bachelor of Computer Science (Software Engineering)
+2023-present: Bachelor of Computer Science (Software Engineering), University of Technology Malaysia
 <br><br>
 ### :hammer_and_wrench: Skills
 
