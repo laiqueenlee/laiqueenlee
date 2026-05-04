@@ -1,38 +1,58 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lee Lai Queen
-=====================================================================================================================================
+# Hi there 👋
 
-currently studying in computer science :woman_student:
---------------------------------------
+## I'm Lee Lai Queen
 
-* 🌍  I'm based in Kuala Lumpuer & Johor, Malaysia
-* ✉️  You can contact me at [leelqueeno@gmail.com](mailto:leelqueeno@gmail.com)
-* 📣  Check out my eportfolio [laiqueenlee.github.io](https://laiqueenlee.github.io/)
-<br><br>
-### 🎒 Education
-2023-present: Bachelor of Computer Science (Software Engineering), University of Technology Malaysia
-<br><br>
-### :hammer_and_wrench: Skills
+🎓 Computer Science (Software Engineering) student passionate about building practical, efficient, and user-centered software solutions.
+I enjoy turning ideas into working systems and continuously improving how I write, structure, and deliver code.
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-</p>
+---
 
-<!-- <br><br>
-### :card_index_dividers: Assignments & Lab Sessions
-- [:electric_plug: PC Assemble Session](https://github.com/laiqueenlee/lab_pcassemble1/tree/main) <br>
-- [:left_speech_bubble: Overview of ICT Jobs in Clarity Techworks Sdn. Bhd.](https://github.com/laiqueenlee/TIS_industrialtalk_1)<br>
-- [	:office: Visit to UTMDigital](https://github.com/laiqueenlee/TIS_industrialvisit_1)<br>
-- [:left_speech_bubble: System Development @ Credence (TM Subsidiary)](https://github.com/laiqueenlee/TIS_industrialtalk2) <br>
-- [:left_speech_bubble: Tech Driven Innovation—Unleashing The Power of Emerging Technologies for Business Growth in Urban Farming Solution (I-FARM)](https://github.com/laiqueenlee/TIS_industrialtalk3) <br>
-- [:triangular_flag_on_post: Design Thinking Project](https://github.com/laiqueenlee/TIS_designthinking)<br>
+## 🌍 About Me
 
-<br><br> -->
-### :crossed_swords: Badges
+* 📍 Based in Kuala Lumpur & Johor, Malaysia
+* ✉️ Email: [leelqueeno@gmail.com](mailto:leelqueeno@gmail.com)
+* 🌐 Portfolio: [https://laiqueenlee.github.io/](https://laiqueenlee.github.io/)
+* 💡 Interests: Web development, software engineering, system design, and backend logic
+* 🧠 Currently exploring how real-world systems are built (beyond just coursework)
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/laiqueenlee"><img src="https://github-readme-stats.vercel.app/api?username=laiqueenlee&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="laiqueenlee's GitHub stats" /></a>
+## 🎓 Education
 
-<a href="http://www.github.com/laiqueenlee"><img src="https://github-readme-streak-stats.herokuapp.com/?user=laiqueenlee&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+**Bachelor of Computer Science (Software Engineering)**
+Universiti Teknologi Malaysia (UTM)
+📅 2023 – Present
 
-<a href="https://github.com/laiqueenlee" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laiqueenlee&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+Java, Python, C++, PHP, JavaScript, HTML, CSS  
+
+### 📱 Frameworks & Tools
+Flutter, Java JSP/Servlets, Git/GitHub, Figma, VS Code, Android Studio, TensorFlow Lite, MobileNetV2  
+
+### 🗄️ Databases
+MySQL, Firebase Firestore  
+
+### 🧠 Core Concepts
+MVC Architecture, DAO Pattern, Software Development Life Cycle (SDLC), System Design, Database Design, Backend Development  
+
+---
+
+## 🚀 What I'm Working On
+
+* Developing full-stack applications through academic projects, with a focus on mobile and web-based systems
+* Exploring AI integration in applications, including image recognition and intelligent system features
+* Improving GitHub workflow (branching, pull requests, and project structuring)
+* Preparing for a software engineering internship (Sept 2026 – Feb 2027) to build industry-relevant projects and technical depth
+
+---
+
+## 📌 Featured Projects
+
+* **KolejCare** – Flutter mobile application for managing residential college facilities, maintenance requests, and student services
+* **MindWell Hub** – Java MVC mental health web system with role-based access, self-assessments, peer support, and AI-assisted student wellness guidance
+* **JimatMaster** – PHP- and MySQL-based budgeting system featuring transaction management, budget tracking, and role-based admin monitoring.
+---
