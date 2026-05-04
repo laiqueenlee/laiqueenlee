@@ -1,6 +1,4 @@
-# Hi there 👋
-
-## I'm Lee Lai Queen
+# Hi there 👋 I'm Lee Lai Queen
 
 🎓 Computer Science (Software Engineering) student passionate about building practical, efficient, and user-centered software solutions.
 I enjoy turning ideas into working systems and continuously improving how I write, structure, and deliver code.
