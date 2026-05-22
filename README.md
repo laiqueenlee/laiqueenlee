@@ -8,8 +8,7 @@ I enjoy turning ideas into working systems and continuously improving how I writ
 ## 🌍 About Me
 
 * 📍 Based in Kuala Lumpur & Johor, Malaysia
-* ✉️ Email: [leelqueeno@gmail.com](mailto:leelqueeno@gmail.com)
-//* 🌐 Portfolio: [https://laiqueenlee.github.io/](https://laiqueenlee.github.io/)
+* ✉️ Email: [leelqueeno@gmail.com](mailto:leelqueeno@gmail.com) <!--* 🌐 Portfolio: [https://laiqueenlee.github.io/](https://laiqueenlee.github.io/)-->
 * 💡 Interests: Web development, software engineering, system design, and backend logic
 * 🧠 Currently exploring how real-world systems are built (beyond just coursework)
 
